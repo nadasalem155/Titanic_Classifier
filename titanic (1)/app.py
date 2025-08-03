@@ -1,12 +1,12 @@
-import streamlit as st
-import joblib
-import numpy as np
+import streamlit as st 
+import joblib 
+import numpy as np 
 
 # Load the trained model
 model = joblib.load('titanic_model.pkl')
 
 st.title("Titanic Survival Prediction")
-st.write("Hello, Titanic App is Running!")  # ← دي هنا
+st.write("Hello, Titanic App is Running!")  
 
 # Form input
 pclass = st.selectbox("Passenger Class (1 = 1st, 2 = 2nd, 3 = 3rd)", [1, 2, 3])
