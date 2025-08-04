@@ -45,7 +45,8 @@ The model is evaluated using the following metrics:
 
 **Confusion Matrix**
 
-[[99 10] [19 50]]
+[[99 10]
+[19 50]]
 
 **Metrics**
 
@@ -56,7 +57,8 @@ The model is evaluated using the following metrics:
 
 **Cross-validation Scores**
 
-[0.7640, 0.8202, 0.8315, 0.7921, 0.8531] Average Accuracy: 0.8122
+[0.7640, 0.8202, 0.8315, 0.7921, 0.8531] 
+Average Accuracy: 0.8122
 
 ## Files Included
 
