@@ -1,4 +1,4 @@
-# Titanic Classifier
+# Titanic_Classifier
 
 This project implements a binary classification model using a Random Forest Classifier to predict whether a passenger on the Titanic survived or not.
 
