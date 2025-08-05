@@ -5,6 +5,9 @@ This project implements a binary classification model using a Random Forest Clas
 ## Live App
 
 Access the deployed app here:  
+🔗 [Titanic Classifier - Streamlit App](https://titanicclassifier-ejfv8enxhitqtcprbhwrhw.streamlit.app/)
+
+
 [https://titanicclassifier1-ck7zzakypbtnw7ggn6egbv.streamlit.app/#titanic-survival-prediction](https://titanicclassifier1-ck7zzakypbtnw7ggn6egbv.streamlit.app/#titanic-survival-prediction)
 
 ## Dataset
