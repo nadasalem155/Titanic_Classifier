@@ -97,7 +97,6 @@ You can view the full project presentation here:
 ---
 
 ## Requirements ⚡
-```text
 Python
 pandas
 numpy
@@ -107,9 +106,10 @@ streamlit
 joblib
 
 
----
 
-Conclusion 🏁
+-----------------
+
+## Conclusion 🏁
 
 Random Forest outperformed a single Decision Tree in terms of accuracy
 
