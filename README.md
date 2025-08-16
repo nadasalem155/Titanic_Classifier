@@ -80,9 +80,9 @@ The model is deployed using **Streamlit**, allowing users to:
 
 ---
 
-## Report 📄
-You can view the full project report here:  
-🔗 [Titanic Classifier Report](#)  
+## presentation 📄
+You can view the full project presentation here:  
+🔗 [Titanic Classifier presentation ](Titanic_Classifier-presentation.pdf)  
 
 *(Replace `#` with the link to your PDF/Word report.)*
 
