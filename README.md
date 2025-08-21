@@ -5,7 +5,7 @@ This project implements a **binary classification model** using a **Random Fores
 
 **Live App:**  
 Access the deployed app here:  
-🔗 [Titanic Classifier - Streamlit App](#)  
+🔗 [Titanic Classifier - Streamlit App](https://titanicclassifier-ejfv8enxhitqtcprbhwrhw.streamlit.app/)  
 
 ---
 
