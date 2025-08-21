@@ -56,6 +56,7 @@ Predict whether a passenger survived (**1**) or not (**0**) based on the availab
 ## Confusion Matrix
 
 [[99 10]
+
 [19 50]]
 
 ## Cross-validation Scores
